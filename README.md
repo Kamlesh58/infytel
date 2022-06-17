@@ -1,0 +1,2 @@
+# infytel
+connect to configserver
